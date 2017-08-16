@@ -1,0 +1,27 @@
+# Site settings
+title: 'Carpe diem'  # Your Title
+tagline: 'To be someone interesting'  # A brief tagline for your site
+timezone: 'Asia/Shanghai'
+destination: ./_site
+
+# Build settings
+encoding: UTF-8
+markdown: kramdown
+#for publish
+#highlighter: pygments
+#for local
+#highlighter: true
+baseurl: # the subpath of your site, e.g. /blog/
+codeurl: /code/
+fragmenturl: /fragment/
+
+# Personal info
+avatar: //farm5.staticflickr.com/4371/36218367360_8165b191ba_z.jpg
+email: uni.mysnow@gmail.com
+github: https://github.com/nowhitestar
+weibo: //weibo.com/liaoyuxing1001
+music: //music.163.com/#/user/home?id=46012777
+twitter: https://twitter.com/LuiseLiao
+
+# Logo setting
+logocolor: '#000'
